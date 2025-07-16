@@ -50,3 +50,6 @@ O dashboard responde a:
 ⮕ **Excel Intermediário** (Tabelas Dinâmicas, Formatação Condicional)  
 ⮕ **Design System Xbox** (paleta de cores oficial da marca)  
 ⮕ **Análise Direcionada a Negócios** (foco em serviços de assinatura)
+
+**Arquivo disponível :**
+[Download do documento](/downloads/Analise_xbox.rar)
